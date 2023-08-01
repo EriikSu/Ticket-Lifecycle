@@ -7,10 +7,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [How to create, work, and resolves tickets within osTicket](https://drive.google.com/file/d/1yY6V2mKjh6gBFwAoM--wrdHrOStLaezQ/view?usp=sharing)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,9 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 <h3>Stage 1: Intake</h3>
-<p>
-![image](https://github.com/JasonDelahoussaye/ticket-lifecycle/assets/106440235/973f25c3-43f2-4540-a1cf-ab7c98dfc5c8)
-</p>
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/106440235/250437986-973f25c3-43f2-4540-a1cf-ab7c98dfc5c8.png)
 <p>
 This is the stage when a new ticket is created. There are a couple of ways I can submit a ticket - either by filling out a form, like the one shown here, or by sending an email to a designated ticketing address. When I fill out the form, I provide my contact information, describe the topic/issue, and provide all the necessary details about the problem.
 </p>
